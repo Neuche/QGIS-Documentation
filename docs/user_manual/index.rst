@@ -1,7 +1,7 @@
 .. _QGIS-manual-index-reference:
 
 ===============
-QGIS User Guide
+QGIS User Guide -N
 ===============
 
 .. toctree::
